@@ -1,6 +1,6 @@
 # Database Systems Assignment 2
  
-Bài tập lớn số 2 môn Hệ cơ sở dữ liệu
+**Bài tập lớn số 2 môn Hệ cơ sở dữ liệu**
 
 Hướng dẫn sử dụng:
 
@@ -12,10 +12,10 @@ Bước 3: Mở toàn bộ thư mục code bằng Visual Studio Code.
 
 Bước 4: Chỉnh file config.php theo cơ sở dữ liệu đã tạo.
 
-Bước 5: Ở terminal của Visual Studio Code, gõ: php -S localhost:8080
+Bước 5: Ở terminal của Visual Studio Code, gõ: _php -S localhost:8080_
 
-Bước 6: Vào trình duyệt gõ: localhost:8080
+Bước 6: Vào trình duyệt gõ: _localhost:8080_
 
 Xong!
 
-Lưu ý: Nếu làm theo các bước trên vẫn chưa được thì tải XAMPP và bật Apache, sau đó tiếp tục từ bước 5.
+**_Lưu ý_**: Nếu làm theo các bước trên vẫn chưa được thì tải XAMPP và bật Apache, sau đó tiếp tục từ bước 5.
