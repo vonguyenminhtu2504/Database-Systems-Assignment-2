@@ -1,4 +1,4 @@
-# Database Systems Assignment_2
+# Database Systems Assignment 2
  
 Bài tập lớn số 2 môn Hệ cơ sở dữ liệu
 
